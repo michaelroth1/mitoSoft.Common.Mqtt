@@ -1,4 +1,4 @@
-﻿namespace mitoSoft.homeNet.Core.Mqtt
+﻿namespace mitoSoft.Common.Mqtt
 {
     public class MqttMessage
     {
