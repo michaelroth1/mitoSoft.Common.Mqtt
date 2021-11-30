@@ -11,9 +11,9 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>mitoSoft.homeNet.Core.Mqtt</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>mitoSoft</Authors>
-    <Copyright>(c)mitoSoft</Copyright>
+    <Copyright>(c)mitoSoft 2021</Copyright>
     <PackageProjectUrl>https://github.com/michaelroth1/mitoSoft.Common.Mqtt</PackageProjectUrl>
     <PackageIcon>mitoSoft.png</PackageIcon>
     <PackageTags>Mqtt</PackageTags>
