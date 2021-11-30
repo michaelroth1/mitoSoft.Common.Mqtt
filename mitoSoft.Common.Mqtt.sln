@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mitoSoft.homeNet.Core.Mqtt", "mitoSoft.Common.Mqtt\mitoSoft.homeNet.Core.Mqtt.csproj", "{F83745A9-C392-4590-96E3-6CBA8382672B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mitoSoft.Common.Mqtt", "mitoSoft.Common.Mqtt\mitoSoft.Common.Mqtt.csproj", "{F83745A9-C392-4590-96E3-6CBA8382672B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
