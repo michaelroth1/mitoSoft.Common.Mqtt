@@ -11,13 +11,15 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>mitoSoft.homeNet.Core.Mqtt</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>mitoSoft</Authors>
     <Copyright>(c)mitoSoft 2021</Copyright>
     <PackageProjectUrl>https://github.com/michaelroth1/mitoSoft.Common.Mqtt</PackageProjectUrl>
     <PackageIcon>mitoSoft.png</PackageIcon>
     <PackageTags>Mqtt</PackageTags>
     <Description>A Mqtt Wrapper of M2MqttDotnetCore that comes e.g. with a reconnection pattern</Description>
+    <RepositoryUrl>https://github.com/michaelroth1/mitoSoft.Common.Mqtt</RepositoryUrl>
+    <PackageReleaseNotes>[Bugfix] better exception handling for connection </PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

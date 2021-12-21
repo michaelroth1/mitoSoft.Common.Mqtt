@@ -50,6 +50,10 @@ namespace mitoSoft.Common.Mqtt
 
                 return true;
             }
+            catch (System.AggregateException)
+            {
+                throw;
+            }
             catch
             {
                 this.Disconnect();
